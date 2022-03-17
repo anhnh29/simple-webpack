@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhnh29/simple-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhnh29/simple-webpack/issues"
+  },
+  "homepage": "https://github.com/anhnh29/simple-webpack#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "webpack": "^5.70.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  },
+  "keywords": [],
+  "description": ""
+}
